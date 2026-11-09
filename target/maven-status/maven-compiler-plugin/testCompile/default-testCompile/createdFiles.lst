@@ -1,9 +1,0 @@
-pages\NexusDashboardPage.class
-stepdefinitions\NexusDashboardSteps.class
-pages\GoogleHomePage.class
-support\DriverFactory.class
-stepdefinitions\SeleniumSteps.class
-tests\SeleniumSmokeTest.class
-runners\RunCucumberTest.class
-pages\SeleniumHomePage.class
-hooks\TestHooks.class
